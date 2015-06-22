@@ -1,0 +1,9 @@
+C:\Users\Carlos\Desktop\Binary_Calculator\Binary_Calculator\Binary_Calculator\bin\Debug\Binary_Calculator.exe.config
+C:\Users\Carlos\Desktop\Binary_Calculator\Binary_Calculator\Binary_Calculator\obj\Debug\Binary_Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\Binary_Calculator\Binary_Calculator\Binary_Calculator\obj\Debug\Binary_Calculator.Form1.resources
+C:\Users\Carlos\Desktop\Binary_Calculator\Binary_Calculator\Binary_Calculator\obj\Debug\Binary_Calculator.Properties.Resources.resources
+C:\Users\Carlos\Desktop\Binary_Calculator\Binary_Calculator\Binary_Calculator\obj\Debug\Binary_Calculator.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\Binary_Calculator\Binary_Calculator\Binary_Calculator\bin\Debug\Binary_Calculator.exe
+C:\Users\Carlos\Desktop\Binary_Calculator\Binary_Calculator\Binary_Calculator\bin\Debug\Binary_Calculator.pdb
+C:\Users\Carlos\Desktop\Binary_Calculator\Binary_Calculator\Binary_Calculator\obj\Debug\Binary_Calculator.exe
+C:\Users\Carlos\Desktop\Binary_Calculator\Binary_Calculator\Binary_Calculator\obj\Debug\Binary_Calculator.pdb
